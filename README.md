@@ -47,4 +47,3 @@ O sistema é um script em Python que permite gerenciar pacientes e seus exames l
 1. Clone o repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/dasa-lab.git
-   cd dasa-lab
