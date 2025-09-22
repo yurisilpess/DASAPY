@@ -46,4 +46,22 @@ O sistema é um script em Python que permite gerenciar pacientes e seus exames l
 ### Passos:
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/dasa-lab.git
+   git clone https://github.com/yurisilpess/DASAPY.git
+   cd DASAPY
+   ```
+2. Verifique a versão de Python:
+   ```bash
+   python --version
+   ```
+
+---
+
+# Autores
+- Yuri Pessoa (RM557475)
+- Igor Soos (RM556010)
+- Gustavo Moreno (RM556289)
+- Enzo Mikael Sanches (RM558887)
+- João Pedro (RM558375)
+
+
+
